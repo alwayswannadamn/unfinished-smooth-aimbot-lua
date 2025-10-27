@@ -4,4 +4,4 @@
 
 **RU:** Не законченная версия смуч аимбота для гта самп на луа, кто хочет, берите за основу.
 
-![alt text]("review.png")
+![alt text]("https://github.com/alwayswannadamn/unfinished-smooth-aimbot-lua/blob/main/review.png")
